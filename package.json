@@ -1,6 +1,6 @@
 {
-  "name": "ng-improved-testing",
-  "private": true,
+  "name": "bavragor/ng-improved-testing",
+  "private": false,
   "devDependencies": {
     "bower": "1.3.12",
     "grunt": "0.4.5",
